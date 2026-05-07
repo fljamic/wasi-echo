@@ -10,5 +10,3 @@ kotlin {
         binaries.executable()
     }
 }
-
-
